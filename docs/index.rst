@@ -11,6 +11,9 @@ django-gcm-android-ios is a simple Django app to send a message using Google Clo
 .. image:: https://coveralls.io/repos/hugobrilhante/django-gcm-android-ios/badge.svg?branch=master&service=github
    :target: https://coveralls.io/github/hugobrilhante/django-gcm-android-ios?branch=master
 
+.. image:: https://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios.svg
+    :target: http://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios
+
 Contents:
 
 .. toctree::

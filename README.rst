@@ -12,6 +12,9 @@ Detailed documentation is in the "docs" directory.
 .. image:: https://coveralls.io/repos/hugobrilhante/django-gcm-android-ios/badge.svg?branch=master&service=github
   :target: https://coveralls.io/github/hugobrilhante/django-gcm-android-ios?branch=master
 
+.. image:: https://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios.svg
+    :target: http://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios
+
 .. image:: https://readthedocs.org/projects/django-gcm-android-ios/badge/?version=latest
    :target: http://django-gcm-android-ios.readthedocs.org/en/latest/
    :alt: Documentation Status
