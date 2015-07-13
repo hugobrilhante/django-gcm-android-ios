@@ -65,3 +65,8 @@ Quick start
 
     curl -X DELETE -H "Content-Type: application/json" -H "Authorization: "  
     'http://localhost:8001/api/devices/id_device'
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/hugobrilhante/django-gcm-android-ios
+   :target: https://gitter.im/hugobrilhante/django-gcm-android-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
