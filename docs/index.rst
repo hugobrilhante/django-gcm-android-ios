@@ -11,8 +11,23 @@ django-gcm-android-ios is a simple Django app to send a message using Google Clo
 .. image:: https://coveralls.io/repos/hugobrilhante/django-gcm-android-ios/badge.svg?branch=master&service=github
    :target: https://coveralls.io/github/hugobrilhante/django-gcm-android-ios?branch=master
 
-.. image:: https://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios.svg
-    :target: http://badge.fury.io/gh/hugobrilhante%2Fdjango-gcm-android-ios
+.. image:: https://img.shields.io/pypi/status/django-gcm-android-ios.svg
+   :target: https://pypi.python.org/pypi/django-gcm-android-ios
+
+.. image:: https://img.shields.io/pypi/dm/django-gcm-android-ios.svg
+   :target: https://pypi.python.org/pypi/django-gcm-android-ios/1.0.0#downloads
+
+.. image:: https://img.shields.io/pypi/l/django-gcm-android-ios.svg
+   :target: https://github.com/hugobrilhante/django-gcm-android-ios/blob/master/LICENSE
+
+.. image:: https://img.shields.io/github/release/hugobrilhante/django-gcm-android-ios.svg
+   :target: https://github.com/hugobrilhante/django-gcm-android-ios/releases/tag/1.0.0
+
+.. image:: https://img.shields.io/pypi/pyversions/django-gcm-android-ios.svg
+   :target: https://pypi.python.org/pypi/django-gcm-android-ios
+
+
+
 
 Contents:
 
