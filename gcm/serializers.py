@@ -8,4 +8,4 @@ Device = get_device_model()
 class DeviceSerializer(ModelSerializer):
     class Meta:
         model = Device
-        fields = ('dev_id', 'dev_type', 'reg_id')
+        exclude = ('id', 'creation_date', 'modified_date', 'is_active')
