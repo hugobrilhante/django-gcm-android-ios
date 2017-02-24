@@ -1,5 +1,5 @@
 ======================
-Django GCM Android iOS
+Django GCM Android iOS (Deprecate due Firebase Cloud Messaging)
 ======================
 
 django-gcm-android-ios is a simple Django app to send a message using GCM HTTP connection server protocol.
